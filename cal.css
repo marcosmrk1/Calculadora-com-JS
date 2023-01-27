@@ -1,0 +1,156 @@
+
+
+body{
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    vertical-align: auto;
+    
+}
+
+
+form{
+    display:flex ; 
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    padding:30px;
+    background-color: #964b00;
+    border-radius: 12px;
+    margin-top: 10.9%;
+    
+}
+
+form input{
+    padding:10px;
+    font-weight: bold;
+    outline: none;
+    text-align: right;
+    width: 90%;
+    
+    
+
+}
+
+.options{
+    display: flex;
+    margin-top: 10px;
+    flex-wrap: wrap;
+   
+}
+
+div.options{
+    display: flex;
+    margin-top: 10px;
+    
+}
+
+div.options span{
+    padding: 20px;
+    width: 20px;
+    background-color: #964b00;
+    border: 1px solid black; 
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+    transition: color .7s;
+    
+}
+
+
+div.options span:hover{
+    color: #9a5833;
+    
+      
+}
+
+div.options span.oito:hover{
+    background-color: white;
+}
+
+div.options span.sete:hover{
+    background-color: white;
+}
+
+div.options span.um:hover{
+    background-color: white;
+}
+
+div.options span.dois:hover{
+    background-color: white;
+}
+
+div.options span.tres:hover{
+    background-color: white;
+}
+
+div.options span.quatro:hover{
+    background-color: white;
+}
+
+div.options span.cinco:hover{
+    background-color: white;
+}
+
+
+div.options span.seis:hover{
+    background-color: white;
+}
+
+div.options span.nove:hover{
+    background-color: white;
+}
+
+div.options span.zero:hover{
+    background-color: white;
+}
+
+div.options span.mult:hover{
+    background-color: white;
+}
+
+div.options span.adi:hover{
+    background-color: white;
+}
+
+
+div.options span.menos:hover{
+    background-color: white;
+}
+
+
+div.options span.virgula:hover{
+    background-color: white;
+}
+
+div.options span.divi:hover{
+    background-color: white;
+}
+
+div.options span.igual:hover{
+    background-color: white;
+}
+
+
+div.options span.p:hover{
+    background-color: white;
+}
+
+
+div.options span.a:hover{
+    background-color: white;
+}
+
+div.options span.ce:hover{
+    background-color: white;
+}
+
+
+div.options span.ce{
+    width: 82px;
+    
+}
+
